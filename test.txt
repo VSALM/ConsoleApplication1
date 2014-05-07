@@ -1,1 +1,15 @@
-asdf
+ Volume in drive C is OSDisk
+ Volume Serial Number is CCB0-365A
+
+ Directory of C:\temp\ConsoleApplication1
+
+05/07/2014  01:26 PM    <DIR>          .
+05/07/2014  01:26 PM    <DIR>          ..
+04/24/2014  02:49 PM    <DIR>          ConsoleApplication1
+04/24/2014  02:49 PM             1,024 ConsoleApplication1.sln
+04/24/2014  02:49 PM    <DIR>          ConsoleApplication1.sln.ide
+04/24/2014  02:49 PM            33,280 ConsoleApplication1.v14.suo
+04/24/2014  02:49 PM    <DIR>          packages
+05/07/2014  02:15 PM                 0 test.txt
+               3 File(s)         34,304 bytes
+               5 Dir(s)  859,096,535,040 bytes free
